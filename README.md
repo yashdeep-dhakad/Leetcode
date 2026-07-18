@@ -9,6 +9,7 @@ DSA Problems along with their solution.
 | [0035-search-insert-position](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1929-concatenation-of-array](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,8 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
