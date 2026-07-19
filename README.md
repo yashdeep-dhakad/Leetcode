@@ -44,4 +44,12 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
