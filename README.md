@@ -50,8 +50,13 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
