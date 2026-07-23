@@ -6,6 +6,7 @@ DSA Problems along with their solution.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -68,5 +69,6 @@ DSA Problems along with their solution.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
