@@ -78,4 +78,8 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
