@@ -9,6 +9,7 @@ DSA Problems along with their solution.
 | [0001-two-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ DSA Problems along with their solution.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -83,6 +85,7 @@ DSA Problems along with their solution.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
