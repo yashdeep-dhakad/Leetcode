@@ -14,6 +14,7 @@ DSA Problems along with their solution.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -23,11 +24,13 @@ DSA Problems along with their solution.
 | ------- |
 | [0035-search-insert-position](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -85,11 +88,13 @@ DSA Problems along with their solution.
 | [0001-two-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -98,4 +103,8 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
