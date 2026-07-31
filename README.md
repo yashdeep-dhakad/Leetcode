@@ -73,6 +73,7 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -88,12 +89,14 @@ DSA Problems along with their solution.
 | [0001-two-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
