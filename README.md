@@ -105,6 +105,7 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0595-big-countries](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0595-big-countries) |
 ## Divide and Conquer
 |  |
 | ------- |
