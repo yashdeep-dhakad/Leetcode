@@ -80,6 +80,7 @@ DSA Problems along with their solution.
 | [0058-length-of-last-word](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +97,7 @@ DSA Problems along with their solution.
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +119,12 @@ DSA Problems along with their solution.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
