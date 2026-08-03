@@ -83,6 +83,7 @@ DSA Problems along with their solution.
 | [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
@@ -101,6 +102,7 @@ DSA Problems along with their solution.
 | [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
