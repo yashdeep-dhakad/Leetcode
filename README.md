@@ -18,6 +18,7 @@ DSA Problems along with their solution.
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1480-running-sum-of-1d-array) |
