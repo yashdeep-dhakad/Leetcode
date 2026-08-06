@@ -18,6 +18,7 @@ DSA Problems along with their solution.
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ DSA Problems along with their solution.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -75,6 +77,7 @@ DSA Problems along with their solution.
 | [0141-linked-list-cycle](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashdeep-dhakad/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -104,6 +107,7 @@ DSA Problems along with their solution.
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -116,6 +120,7 @@ DSA Problems along with their solution.
 | [0217-contains-duplicate](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashdeep-dhakad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
